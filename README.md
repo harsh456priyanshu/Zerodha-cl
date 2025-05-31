@@ -1,2 +1,0 @@
-# Zerodha-clone
-ZERODHA-CLONE
